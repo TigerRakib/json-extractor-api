@@ -59,10 +59,7 @@ This project is a **Django REST API** that accepts a base64-encoded PNG image co
 You can test the API using:
 
 - **Postman**: Import the provided collection or send a `POST` request to `/api/extract-data/` with the base64 image.
-- **Frontend UI**: A UI is provided to upload images and test the API visually (if hosted).
-
-> ⚠️ *Due to personal constraints, testing on the hosted UI was not completed. However, the API has been thoroughly tested via Postman and works as expected.*
-
+  
 ---
 
 ## 🛠️ Setup Instructions
@@ -108,10 +105,7 @@ If you'd like a sample base64-encoded PNG image with embedded JSON QR code, you 
 
 ## 🙋 Author Note
 
-> I built this project as part of a coding challenge. Due to my father's illness and limited time, I was unable to complete testing on the hosted UI. However, the API has been fully validated using Postman and is functioning as expected.
+> I built this project as part of a coding challenge. 
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
